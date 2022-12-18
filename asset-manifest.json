@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/landing_page_juan/static/css/main.e1e63b2a.css",
-    "main.js": "/landing_page_juan/static/js/main.7a3d1163.js",
+    "main.css": "/landing_page_juan/static/css/main.3a85bafa.css",
+    "main.js": "/landing_page_juan/static/js/main.61e0757b.js",
     "static/media/coverVideo.mp4": "/landing_page_juan/static/media/coverVideo.b22efd4871bd26df887d.mp4",
     "static/media/languages.png": "/landing_page_juan/static/media/languages.0cd3a01c1967ee866dbf.png",
     "static/media/mision_vision.jpeg": "/landing_page_juan/static/media/mision_vision.a4cfa589e562d69622fa.jpeg",
@@ -11,11 +11,11 @@
     "static/media/Proyecto_3.jpg": "/landing_page_juan/static/media/Proyecto_3.f72835c28b9d5f579740.jpg",
     "static/media/Proyecto_4.jpg": "/landing_page_juan/static/media/Proyecto_4.768fcc66a45e1f0c1cb2.jpg",
     "index.html": "/landing_page_juan/index.html",
-    "main.e1e63b2a.css.map": "/landing_page_juan/static/css/main.e1e63b2a.css.map",
-    "main.7a3d1163.js.map": "/landing_page_juan/static/js/main.7a3d1163.js.map"
+    "main.3a85bafa.css.map": "/landing_page_juan/static/css/main.3a85bafa.css.map",
+    "main.61e0757b.js.map": "/landing_page_juan/static/js/main.61e0757b.js.map"
   },
   "entrypoints": [
-    "static/css/main.e1e63b2a.css",
-    "static/js/main.7a3d1163.js"
+    "static/css/main.3a85bafa.css",
+    "static/js/main.61e0757b.js"
   ]
 }
