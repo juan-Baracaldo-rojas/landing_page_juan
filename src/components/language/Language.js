@@ -6,7 +6,7 @@ const Language = () => {
   return (
     <div className='language-container'>
         <div className='language-desc'>
-            <h1>Lenguajes Conocidos</h1>
+            <h1>Skills</h1>
         </div>
         <div className='language-img'>
             <img src={LanguageImg} alt="lenguage"></img>
